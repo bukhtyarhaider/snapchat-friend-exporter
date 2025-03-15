@@ -1,6 +1,12 @@
-# Snapchat Friend Exporter
+<img width="1195" alt="Screenshot 2025-03-15 at 7 02 03 PM" src="https://github.com/user-attachments/assets/55055640-880d-4fb5-8193-fa4be70d5b21" /># Snapchat Friend Exporter
 
 A Chrome extension that extracts friend data from Snapchat Web, filters the data based on navigation information, and lets you download the results as a CSV file. The extension features a Snapchat-inspired UI with an animated progress overlay and a download button that appears when the export is ready.
+
+## Demo
+
+<img width="500" alt="Screenshot 2025-03-15 at 7 02 03 PM" src="https://github.com/user-attachments/assets/90e2f0fd-bd92-4279-a6bd-9589c370ffa1" />
+<img width="500" alt="Screenshot 2025-03-15 at 7 02 35 PM" src="https://github.com/user-attachments/assets/cb54b65d-5a98-40ca-89f6-f6b06a48e36d" />
+<img width="500" alt="Screenshot 2025-03-15 at 7 03 00 PM" src="https://github.com/user-attachments/assets/f9d4b8d9-7f2d-4a71-b205-1caa33d30a6a" />
 
 ## Features
 
