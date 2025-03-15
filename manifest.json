@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "Snapchat Friend Exporter",
+    "version": "1.0.0",
+    "description": "Extracts friend data with a realtime UI and progress overlay.",
+    "action": {
+      "default_popup": "popup.html",
+      "default_title": "Snapchat Friend Exporter"
+    },
+    "permissions": [
+      "scripting",
+      "activeTab"
+    ],
+    "host_permissions": [
+      "*://*.snapchat.com/*"
+    ]
+  }
+  
