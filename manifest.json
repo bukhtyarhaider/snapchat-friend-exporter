@@ -1,18 +1,22 @@
 {
-    "manifest_version": 3,
-    "name": "Snapchat Friend Exporter",
-    "version": "1.0.0",
-    "description": "Extracts friend data with a realtime UI and progress overlay.",
-    "action": {
-      "default_popup": "popup.html",
-      "default_title": "Snapchat Friend Exporter"
-    },
-    "permissions": [
-      "scripting",
-      "activeTab"
-    ],
+  "manifest_version": 3,
+  "name": "Snapchat Friend Exporter",
+  "version": "1.0.0",
+  "description": "A Chrome extension for exporting friend data from Snapchat Web.",
+  "icons": {
+    "16": "img/icon-16.png",
+    "48": "img/icon-48.png",
+    "128": "img/icon-128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Snapchat Friend Exporter"
+  },
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
     "host_permissions": [
       "*://*.snapchat.com/*"
-    ]
-  }
-  
+  ]
+}
